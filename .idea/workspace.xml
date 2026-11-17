@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cd5d88f-18fb-4b03-9f49-c1ad54691609" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/fin-bank/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fin-bank/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jad3s7&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jad3s7/Banking-App.git&quot;,
+    &quot;accountId&quot;: &quot;3d82ff44-9363-4031-99b5-a0b5aecc25f1&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000143558676935" />
+      <entry key="S2" value="1.0630944392586037" />
+      <entry key="S5" value="1.5022719663386754" />
+      <entry key="S10" value="2.6548622741678933" />
+      <entry key="S30" value="7.855714875991807" />
+      <entry key="S60" value="14.52194442739736" />
+      <entry key="M2" value="23.819118851519377" />
+      <entry key="M5" value="36.85960423166566" />
+      <entry key="M10" value="47.717671613348884" />
+      <entry key="M15" value="56.38934049553792" />
+      <entry key="M30" value="74.144061950885" />
+      <entry key="H1" value="90.36506929485763" />
+      <entry key="H2" value="101.6762687223066" />
+      <entry key="H4" value="108.40922233527999" />
+      <entry key="D1" value="114.67020095435424" />
+      <entry key="W1" value="115.80837350048145" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="8.700363104389819E-291" />
+      <entry key="MS500" value="9.725400066292835E-59" />
+      <entry key="S2" value="3.140341440363911E-15" />
+      <entry key="S5" value="1.5811269812303145E-6" />
+      <entry key="S10" value="0.0012884424442103392" />
+      <entry key="S30" value="0.18684309755162934" />
+      <entry key="S60" value="1.1711264985536116" />
+      <entry key="M2" value="4.170201602637652" />
+      <entry key="M5" value="10.771790967418397" />
+      <entry key="M10" value="15.454634823469297" />
+      <entry key="M15" value="17.688445761556697" />
+      <entry key="M30" value="20.634771154058004" />
+      <entry key="H1" value="22.566917044884974" />
+      <entry key="H2" value="23.707631139944905" />
+      <entry key="H4" value="24.332852901864502" />
+      <entry key="D1" value="24.8857073367676" />
+      <entry key="W1" value="24.98359389865138" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.15072597846134503" />
+      <entry key="MS500" value="0.6849165211370374" />
+      <entry key="S2" value="0.9238005421494371" />
+      <entry key="S5" value="1.2771290661229477" />
+      <entry key="S10" value="2.3710031107982332" />
+      <entry key="S30" value="7.711166459806045" />
+      <entry key="S60" value="15.361472197545991" />
+      <entry key="M2" value="27.694125917880147" />
+      <entry key="M5" value="47.432681959949505" />
+      <entry key="M10" value="63.04823558473872" />
+      <entry key="M15" value="73.98777362694571" />
+      <entry key="M30" value="94.7293169250631" />
+      <entry key="H1" value="112.90583851744431" />
+      <entry key="H2" value="125.37043003942965" />
+      <entry key="H4" value="132.73523381474675" />
+      <entry key="D1" value="139.5547525357042" />
+      <entry key="W1" value="140.79180190107004" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MBJrOuU0zm2alf6VxjORANxHth" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.banking-app [clean].executor": "Run",
+    "Maven.banking-app [compile].executor": "Run",
+    "Maven.banking-app [install].executor": "Run",
+    "Maven.banking-app [package].executor": "Run",
+    "Maven.banking-app [validate].executor": "Run",
+    "Maven.banking-app [verify].executor": "Run",
+    "Maven.fin-bank [clean].executor": "Run",
+    "Maven.fin-bank [compile].executor": "Run",
+    "Maven.fin-bank [test].executor": "Run",
+    "Maven.fin-bank [validate].executor": "Run",
+    "Maven.fin-bank [verify].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/jadxs/WeThinkCode/Banking-App/fin-bank",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fin-bank/src/test/java" />
+      <recent name="$PROJECT_DIR$/fin-bank/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fin-bank" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="banking.model" />
+      <recent name="exception" />
+      <recent name="repository" />
+      <recent name="service" />
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cd5d88f-18fb-4b03-9f49-c1ad54691609" name="Changes" comment="" />
+      <created>1794818228172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794818228172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
